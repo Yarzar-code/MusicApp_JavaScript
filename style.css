@@ -34,6 +34,11 @@ header p {
 .pad1 {
   background: #60d394;
 }
+.music_node {
+  height: 100px;
+  width: 100px;
+  margin-left: 50px;
+}
 .pad2 {
   background: #d36060;
 }
